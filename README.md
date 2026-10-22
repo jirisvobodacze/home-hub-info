@@ -1,2 +1,3 @@
-# home-hub-info
-Public information and privacy policy for the personal Home Hub dashboard.
+# Home Hub
+
+Public information website and privacy policy for a personal household dashboard. No dashboard data or credentials are included.
